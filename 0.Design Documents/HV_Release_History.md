@@ -29,7 +29,7 @@ The first Alpha versions showed me a stronger, more refined vision of what does 
 The release of the first proper Horror Vacui Alpha made it clear to me that I needed a more robust and transparent changelog.
 
 ### Horror Vacui A1
-Almost an identical clone of Karl's End with some minor revisions.
+- Almost an identical clone of Karl's End with some minor revisions.
 
 ### Horror Vacui A2
 - Added new ECM multipliers for Salvage and adjusted values.
